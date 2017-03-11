@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489267109 source:d:\laby\laba symwoly\main.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485689779 source:d:\laby\laba 4 v5\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<time.h>
+

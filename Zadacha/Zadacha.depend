@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487594523 source:d:\laby\zadacha\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+

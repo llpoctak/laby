@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1484941291 source:d:\laby\laba 4 v1\main.cpp
+	<iostream>
+	<time.h>
+	<iostream>
+	<cstdlib>
+	<math.h>
+

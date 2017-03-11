@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1488214726 source:d:\laby\spiral\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<cstdlib>
+

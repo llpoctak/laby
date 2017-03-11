@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1487607251 source:d:\laby\laba 9 v10\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	"Min.h"
+	"Symetr.h"
+
+1487607250 d:\laby\laba 9 v10\min.h
+
+1487607198 d:\laby\laba 9 v10\symetr.h
+
+1487607251 source:d:\laby\laba 9 v10\min.cpp
+
+1487607251 source:d:\laby\laba 9 v10\symetr.cpp
+

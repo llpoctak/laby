@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486555422 source:d:\laby\laba 9 v1\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	"Sum.h"
+	"X.h"
+
+1486555240 d:\laby\laba 9 v1\sum.h
+
+1486555303 d:\laby\laba 9 v1\x.h
+
+1486555303 source:d:\laby\laba 9 v1\sum.cpp
+
+1486555303 source:d:\laby\laba 9 v1\x.cpp
+

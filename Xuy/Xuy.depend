@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489266399 source:d:\laby\xuy\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+

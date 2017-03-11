@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486143640 source:d:\laby\laba 6 v1\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<cmath>
+

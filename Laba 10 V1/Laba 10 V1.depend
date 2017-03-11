@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1486998066 source:d:\laby\laba 10 v1\function.cpp
+	<cstdlib>
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<cstring>
+
+1486998172 source:d:\laby\laba 10 v1\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	"Function.h"
+
+1486997232 d:\laby\laba 10 v1\function.h
+

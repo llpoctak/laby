@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488315879 source:d:\laby\laba 11 v5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"NewVector.h"
+
+1488314972 source:d:\laby\laba 11 v5\newvector.cpp
+
+1488316346 d:\laby\laba 11 v5\newvector.h
+

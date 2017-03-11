@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1486656468 source:d:\laby\laba 9 v2\dob.cpp
+	<iostream>
+
+1486656441 source:d:\laby\laba 9 v2\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<cstdlib>
+	"Dob.h"
+	"X2.h"
+
+1486645764 d:\laby\laba 9 v2\dob.h
+
+1486649583 d:\laby\laba 9 v2\x2.h
+	<iostream>
+
+1486718079 source:d:\laby\laba 9 v2\x2.cpp
+	<iostream>
+
